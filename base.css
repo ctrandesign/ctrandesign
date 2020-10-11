@@ -4,9 +4,8 @@ h2{
     top: 0;
 }
 h3{
-     position: -webkit-sticky; /* Safari */
+    position: -webkit-sticky; /* Safari */
     position: sticky;
-    top: 0;
 }
     
 

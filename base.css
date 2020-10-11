@@ -3,6 +3,12 @@ h2{
     position: sticky;
     top: 0;
 }
+h3{
+     position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+    
 
 #TitleCard{
     font-family: Courier New, monospace;

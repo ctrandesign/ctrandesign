@@ -1,0 +1,40 @@
+h2{
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+#TitleCard{
+    font-family: Courier New, monospace;
+    text-align: center;
+    margin-bottom: 5%;
+    
+    
+}
+
+#portraitImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 15%;
+    margin-top: 1%;
+    margin-bottom: 2%;
+}
+#landscapeImg{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    width: 20%;
+
+}
+
+p {
+    font-family: Courier New, monospace;
+    margin: auto;
+    margin-top: 1%;
+    font-size: 15px;
+    max-width: 50%;
+  }

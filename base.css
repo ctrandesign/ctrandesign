@@ -10,7 +10,7 @@ h3{
     
 
 #TitleCard{
-    font-family: Courier New, monospace;
+    font-family: Roboto, monospace;
     text-align: center;
     margin-bottom: 5%;
     
@@ -37,7 +37,7 @@ h3{
 }
 
 p {
-    font-family: Courier New, monospace;
+    font-family: Roboto, monospace;
     margin: auto;
     margin-top: 1%;
     font-size: 15px;
